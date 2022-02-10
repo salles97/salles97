@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá, Bem vindo ao meu Github! 👋
+### Espero encontrá-lo bem!
+
+- 🌱 Estou no momento me desenvolvendo como Dev, aprendendo e praticando.
+- 👯 Aqui você poderá encontrar meus projetos, sinta-se livre para me enviar qualquer sugestão!
+- 😄 Estudo Sistemas de informação na UNIFEI, com previsão de formação em Dez/2023.
+- ⚡ Uma curiosidade: Gosto de cozinhar e faço maravilhosos cookies americanos.
+
+
+
+
 
 <!--
 **salles97/salles97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
