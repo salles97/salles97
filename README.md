@@ -1,10 +1,10 @@
 ### Olá, Bem vindo ao meu Github! 👋
 ### Espero encontrá-lo bem!
 
-- 🌱 Estou no momento me desenvolvendo como Dev, aprendendo e praticando.
+
 - 👯 Aqui você poderá encontrar meus projetos, sinta-se livre para me enviar qualquer sugestão!
 - 😄 Estudo Sistemas de informação na UNIFEI, com previsão de formação em Dez/2023.
-- ⚡ Uma curiosidade: Gosto de cozinhar e faço maravilhosos cookies americanos.
+- ⚡ Atualmente estágio como Administrador de Banco de Dados Geográfico.
 
 
 
