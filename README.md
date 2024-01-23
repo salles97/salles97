@@ -3,8 +3,7 @@
 
 
 - 👯 Aqui você poderá encontrar meus projetos, sinta-se livre para me enviar qualquer sugestão!
-- 😄 Estudo Sistemas de informação na UNIFEI, com previsão de formação em Dez/2023.
-- ⚡ Atualmente estágio como Administrador de Banco de Dados Geográfico.
+- 😄 Formado em Sistemas de Informação pela UNIFEI.
 
 
 
